@@ -28,7 +28,8 @@ This project demonstrates customer segmentation using **K-Means Clustering**, an
 - Matplotlib
 - Seaborn
 
-##  How to Run
+ How to Run
 
 1. Clone the repository:
-   git clone https://github.com/Vaishnavi-Devireddy/customer-segmentation.git
+   git clone https://github.com/Vaishnavi-Devireddy/customer_segmentation.git
+
